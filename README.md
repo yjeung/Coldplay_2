@@ -7,7 +7,7 @@
 [YouTube Channel](https://www.youtube.com/user/ColdplayVEVO "YouTube Channel Official")
 
 
-- **Overview**
+- *Overview*
 
 
 ...
