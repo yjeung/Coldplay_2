@@ -1,5 +1,5 @@
 # Coldplay
-콜드플레이 내한 기념, Coldplay에 대해 알아봅시다
+콜드플레이 내한 기념, Coldplay에 대해 알아봅시다. 두근두근
 
 [Official Website](http://www.coldplay.com/ "Coldplay")
 
