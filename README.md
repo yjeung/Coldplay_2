@@ -12,17 +12,17 @@
 
 ...
 
-- **Group members**
+- *Group members*
 
 
 ...
 
-- **Album history**
+- *Album history*
 
 
 ...
 
-- **Concerts**
+- *Concerts*
 
 
 ...
