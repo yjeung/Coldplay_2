@@ -17,7 +17,7 @@
 
 ...
 
-- *Album history*
+## Album history
 
 
 <p align="left">
