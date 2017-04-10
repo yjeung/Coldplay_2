@@ -9,7 +9,7 @@
   <img src="IMG/7-2.gif?raw=true" width="200"/>
 </p>
 <p align="center">
-<b><a href="http://www.coldplay.com/">Official Website</a></b>
+<b><a href="http://www.coldplay.com/" target="_blank">Official Website</a></b>
 </p>
 
 
@@ -17,7 +17,7 @@
   <img src="IMG/youtube.png" width="64"/>
 </p>
 <p align="center">
-<b><a href="https://www.youtube.com/user/ColdplayVEVO">Official YouTube Channel</a></b>
+<b><a href="https://www.youtube.com/user/ColdplayVEVO" target="_blank">Official YouTube Channel</a></b>
 </p>
 
 
