@@ -1,16 +1,22 @@
 # Coldplay
 콜드플레이 내한 기념으로, Coldplay에 대해 알아봅시다.
 
-![alt tag](IMG/website_logo.png) 
 
 
-[Official Website](http://www.coldplay.com/ "Coldplay")
+<p align="center">
+  <img src="IMG/7-2.gif?raw=true" width="200"/>
+</p>
+<p align="center">
+<b><a href="http://www.coldplay.com/">Coldplay</a></b>
+</p>
 
 
-![alt tag](IMG/youtube.png) 
-
-
-[YouTube Channel](https://www.youtube.com/user/ColdplayVEVO "YouTube Channel Official")
+<p align="center">
+  <img src="IMG/youtube.png" width="64"/>
+</p>
+<p align="center">
+<b><a href="https://www.youtube.com/user/ColdplayVEVO">Official YouTube Channel</a></b>
+</p>
 
 
 - *Overview*
