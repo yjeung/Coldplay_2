@@ -25,7 +25,7 @@
 </p>
 
 
-[1집: Parachutes(2000)](https://github.com/GeekInTheClass/Coldplay/blob/master/Discography/7_A%20Head%20Full%20of%20Dreams)
+[1집: Parachutes(2000)](Discography/1_Parachutes.md)
 
 ___
 
