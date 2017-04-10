@@ -25,7 +25,7 @@
 </p>
 
 
-[1집: Parachutes(2000)](https://raw.githubusercontent.com/GeekInTheClass/Coldplay/master/Discography/7_A%20Head%20Full%20of%20Dreams)
+[1집: Parachutes(2000)](https://github.com/GeekInTheClass/Coldplay/blob/master/Discography/7_A%20Head%20Full%20of%20Dreams)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 </p>
 
 
-[2집: A Rush of Blood to the Head (2002)](Discography/2_A%20Rush%20of%20Blood%20to%20the%20Head.md)
+[2집: A Rush of Blood to the Head (2002)](https://github.com/GeekInTheClass/Coldplay/blob/master/Discography/2_A%20Rush%20of%20Blood%20to%20the%20Head)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 </p>
 
 
-[3집: X&Y (2005)](Discography/3_X%26Y.md)
+[3집: X&Y (2005)](https://github.com/GeekInTheClass/Coldplay/blob/master/Discography/3_X%26Y)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 </p>
 
 
-[4집: Viva la Vida or Death and All His Friends (2008)](Discography/4_Viva%20la%20Vida%20or%20Death%20and%20All%20His%20Friends.md)
+[4집: Viva la Vida or Death and All His Friends (2008)](https://github.com/GeekInTheClass/Coldplay/blob/master/Discography/4_Viva%20la%20Vida%20or%20Death%20and%20All%20His%20Friends)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 </p>
 
 
-[5집: Mylo Xyloto (2011)](Discography/5_Mylo%20Xyloto.md)
+[5집: Mylo Xyloto (2011)](https://github.com/GeekInTheClass/Coldplay/blob/master/Discography/5_Mylo%20Xyloto)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 </p>
 
 
-[6집 Ghost Stories (2014)](Discography/6_Ghost%20Stories.md)
+[6집 Ghost Stories (2014)](https://github.com/GeekInTheClass/Coldplay/blob/master/Discography/6_Ghost%20Stories)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 </p>
 
 
-[7집 A Head Full of Dreams (2015)](Discography/7_A%20Head%20Full%20of%20Dreams.md)
+[7집 A Head Full of Dreams (2015)](https://github.com/GeekInTheClass/Coldplay/blob/master/Discography/7_A%20Head%20Full%20of%20Dreams)
 
 ___
 
