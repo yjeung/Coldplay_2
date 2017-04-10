@@ -1,4 +1,6 @@
 # Coldplay
+
+![alt](IMG/cover_img.jpg)
 콜드플레이 내한 기념으로, Coldplay에 대해 알아봅시다.
 
 
@@ -7,7 +9,7 @@
   <img src="IMG/7-2.gif?raw=true" width="200"/>
 </p>
 <p align="center">
-<b><a href="http://www.coldplay.com/">Coldplay</a></b>
+<b><a href="http://www.coldplay.com/">Official Website</a></b>
 </p>
 
 
