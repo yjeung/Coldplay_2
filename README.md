@@ -32,9 +32,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Coldplay_-_December_2008.jpg" width="600"/>
 </p>
 <p align="center">콜드플레이의 멤버들 : 왼쪽부터 가이 베리먼, 조니 버클랜드, 크리스 마틴, 윌 챔피언</p>
-...
 
-## Album history
+
+## Album history(정규 앨범)
 
 
 <p align="left">
@@ -100,7 +100,6 @@ ___
 
 ___
 
-...
 
 - *Concerts*
 
