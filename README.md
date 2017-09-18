@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Coldplay_-_December_2008.jpg" width="600"/>
 </p>
-<p align="center">콜드플레이의 멤버들 : 왼쪽부터 가이 베리먼, 조니 버클랜드, 크리스 마틴, 윌 챔피언</p>
+<p align="center">콜드플레이의 멤버들 : 왼쪽부터 가이 베리먼(베이스기타, 신디사이저, 백 보컬), 조니 버클랜드(일렉기타, 신디사이저, 백 보컬), 크리스 마틴(리드보컬, 피아노, 기타), 윌 챔피언(타악기, 백 보컬, 일렉기타)</p>
 
 
 ## Album history(정규 앨범)
